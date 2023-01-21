@@ -10,8 +10,7 @@ Location: Soda 306
 Instructors: [Alexei Efros](https://people.eecs.berkeley.edu/~efros), [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)  
 GSI: [Ilija Radosavovic](https://people.eecs.berkeley.edu/~ilija)
 
-Undergraduate and masters enrollment policy: With permission from the instructors.
-Please email the GSI for the enrollment form.
+Undergraduate and masters enrollment policy: With permission from the instructors only. Please email the GSI for the enrollment form.
 
 Students will receive access to Ed Discussion for class related discussions.
 
