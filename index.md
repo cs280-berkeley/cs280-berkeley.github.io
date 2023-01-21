@@ -5,9 +5,10 @@ layout: default
 # CS 280: Computer Vision
 
 UC Berkeley, Spring 2023  
-Time: Tuesday and Thursday 3:30PM - 4:59PM  
+Time: TuTh 3:30PM - 4:59PM  
 Location: Soda 306  
-Instructors: Alexei Efros and Jitendra Malik  
+Instructors: [Alexei Efros](https://people.eecs.berkeley.edu/~efros), [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)  
+GSI: [Ilija Radosavovic](https://people.eecs.berkeley.edu/~ilija)
 
 Undergraduate and masters enrollment policy: With permission from the instructors.
 Please email the GSI for the enrollment form.
