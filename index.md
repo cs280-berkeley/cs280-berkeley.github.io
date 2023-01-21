@@ -4,7 +4,7 @@ layout: default
 
 # CS 280: Computer Vision
 
-UC Berkeley, Spring 2023  
+UC Berkeley, Spring 2023
 Time: Tuesday and Thursday 3:30PM - 4:59PM
 Location: Soda 306
 Instructors: Alexei Efros and Jitendra Malik
