@@ -23,3 +23,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 * [Lecture 1](https://www.dropbox.com/s/sm0zvz29kyce8yc/malik-280-lec0.pdf?dl=0) (1/17) Introduction to Computer Vision
 * [Lecture 2](https://www.dropbox.com/s/vle8r85up3akil2/PerspectiveProjection%202023.pdf?dl=0) (1/19) Foundamentals of Image Formation
+* [Lecture 3](https://www.dropbox.com/s/a6s9hpacwu83f0l/malik-280-lec2.pdf?dl=0) (1/24) Radiometry of Image Formation
