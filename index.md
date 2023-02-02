@@ -25,3 +25,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 2](https://www.dropbox.com/s/vle8r85up3akil2/PerspectiveProjection%202023.pdf?dl=0) (1/19) Foundamentals of Image Formation
 * [Lecture 3](https://www.dropbox.com/s/a6s9hpacwu83f0l/malik-280-lec2.pdf?dl=0) (1/24) Radiometry of Image Formation
 * [Lecture 4](https://www.dropbox.com/s/3tfyn1sflnewbpk/malik-280-lec3.pdf?dl=0) (1/26) Color Vision
+* [Lecture 5](https://www.dropbox.com/s/ryd68lyd9yhiiho/malik-280-lec4.pdf?dl=0) (1/31) Human Vision
