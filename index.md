@@ -16,8 +16,7 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 ## Updates
 
-* Enrollment forms are being processed, you will hear from us soon
-* Homework 1 released, see the announcement on Ed Discussion
+* Enrollment forms are now processed, please let us know if you have not heard from us
 
 ## Lectures
 
@@ -26,3 +25,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 3](https://www.dropbox.com/s/a6s9hpacwu83f0l/malik-280-lec2.pdf?dl=0) (1/24) Radiometry of Image Formation
 * [Lecture 4](https://www.dropbox.com/s/3tfyn1sflnewbpk/malik-280-lec3.pdf?dl=0) (1/26) Color Vision
 * [Lecture 5](https://www.dropbox.com/s/ryd68lyd9yhiiho/malik-280-lec4.pdf?dl=0) (1/31) Human Vision
+* [Lecture 6](https://www.dropbox.com/s/hla6vtl5lyg12wd/2023%20Image%20Processing.pdf?dl=0) (2/2) Image Processing
