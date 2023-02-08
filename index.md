@@ -16,7 +16,7 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 ## Updates
 
-* Enrollment forms are now processed, please let us know if you have not heard from us
+* Enrollment forms are now processed, please let us know if you have not heard back
 
 ## Lectures
 
