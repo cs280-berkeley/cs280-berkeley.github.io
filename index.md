@@ -26,3 +26,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 4](https://www.dropbox.com/s/3tfyn1sflnewbpk/malik-280-lec3.pdf?dl=0) (1/26) Color Vision
 * [Lecture 5](https://www.dropbox.com/s/ryd68lyd9yhiiho/malik-280-lec4.pdf?dl=0) (1/31) Human Vision
 * [Lecture 6](https://www.dropbox.com/s/hla6vtl5lyg12wd/2023%20Image%20Processing.pdf?dl=0) (2/2) Image Processing
+* [Lecture 8](https://www.dropbox.com/s/qqoo3i4j6s43ni5/2023%20-%20Statistical%20Image%20Representations.pdf?dl=0) (2/9) Statistical Image Representations I
