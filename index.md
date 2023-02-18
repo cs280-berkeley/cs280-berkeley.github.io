@@ -29,3 +29,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 7](https://www.dropbox.com/s/hla6vtl5lyg12wd/2023%20Image%20Processing.pdf?dl=0) (2/7) Image Processing Cont.
 * [Lecture 8](https://www.dropbox.com/s/qqoo3i4j6s43ni5/2023%20-%20Statistical%20Image%20Representations.pdf?dl=0) (2/9) Statistical Image Representations I
 * [Lecture 9](https://www.dropbox.com/s/68r8cc5vpz38ber/Sequence%20Models.pdf?dl=0) (2/14) Statistical Image Representations II
+* [Lecture 10](https://www.dropbox.com/s/d8fha4ltfqflfhv/GenerativeModels.pdf?dl=0) (2/16) Generating Images from Noise
