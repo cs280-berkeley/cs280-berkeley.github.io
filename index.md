@@ -32,3 +32,5 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 10](https://www.dropbox.com/s/hq0ojohvehcuirh/GenerativeModels.pdf?dl=0) (2/16) Generating Images from Noise
 * [Lecture 11](https://www.dropbox.com/s/u6c13ijcdnq6f87/ilija-280-detection.pdf?dl=0) (2/21) Object Detection
 * [Lecture 12](https://www.dropbox.com/s/0ou6b3gfiu9bby7/flow.pdf?dl=0) (2/23) Optical Flow
+* [Lecture 13](https://www.dropbox.com/s/8pi8u0ll1f3we73/2023%20slides%20correspondence_interest_points.pdf?dl=0) (2/28) Correspondence and Interest Points
+* [Lecture 14](https://www.dropbox.com/s/5meu7iknx79bodd/slides%20Scene%20Understanding.pdf?dl=0) (3/2) Perceptual Organization and Scene Understanding
