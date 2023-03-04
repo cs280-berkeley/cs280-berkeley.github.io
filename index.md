@@ -30,3 +30,5 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 8](https://www.dropbox.com/s/xgj7vwe5n10gd8k/2023%20-%20Statistical%20Image%20Representations.pdf?dl=0) (2/9) Statistical Image Representations I
 * [Lecture 9](https://www.dropbox.com/s/nkjepq5ay6yxr3o/Sequence%20Models.pdf?dl=0) (2/14) Statistical Image Representations II
 * [Lecture 10](https://www.dropbox.com/s/hq0ojohvehcuirh/GenerativeModels.pdf?dl=0) (2/16) Generating Images from Noise
+* [Lecture 11](https://www.dropbox.com/s/u6c13ijcdnq6f87/ilija-280-detection.pdf?dl=0) (2/21) Object Detection
+* [Lecture 12](https://www.dropbox.com/s/0ou6b3gfiu9bby7/flow.pdf?dl=0) (2/23) Optical Flow
