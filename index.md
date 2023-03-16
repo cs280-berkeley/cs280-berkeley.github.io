@@ -36,3 +36,5 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 14](https://www.dropbox.com/s/5meu7iknx79bodd/slides%20Scene%20Understanding.pdf?dl=0) (3/2) Perceptual Organization and Scene Understanding
 * [Lecture 15](https://www.dropbox.com/s/oxxp58bmlmd51nn/optical-flow-geometry.pdf?dl=0) (3/7) Dynamic Perspective
 * [Lecture 16](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/9) Binocular Stereopsis
+* [Lecture 17](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/14) Binocular Stereopsis
+* [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Binocular Stereopsis II
