@@ -16,7 +16,8 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 ## Updates
 
-* Assignment 2 released on Ed Discussion
+* Assignment 2 released
+* Written exam date announced
 
 ## Lectures
 
