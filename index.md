@@ -36,7 +36,9 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 12](https://www.dropbox.com/s/0ou6b3gfiu9bby7/flow.pdf?dl=0) (2/23) Optical Flow
 * [Lecture 13](https://www.dropbox.com/s/8pi8u0ll1f3we73/2023%20slides%20correspondence_interest_points.pdf?dl=0) (2/28) Correspondence and Interest Points
 * [Lecture 14](https://www.dropbox.com/s/5meu7iknx79bodd/slides%20Scene%20Understanding.pdf?dl=0) (3/2) Perceptual Organization and Scene Understanding
-* [Lecture 15](https://www.dropbox.com/s/oxxp58bmlmd51nn/optical-flow-geometry.pdf?dl=0) (3/7) Dynamic Perspective
-* [Lecture 16](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/9) Binocular Stereopsis
-* [Lecture 17](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/14) Binocular Stereopsis
-* [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Binocular Stereopsis II
+* [Lecture 15](https://www.dropbox.com/s/oxxp58bmlmd51nn/optical-flow-geometry.pdf?dl=0) (3/7) Optical Flow Geometry
+* [Lecture 16](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/9) Multi-view Geometry I
+* [Lecture 17](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/14) Multi-view Geometry I Cont.
+* [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Multi-view Geometry II
+* [Lecture 19](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/21) Multi-view Geometry II Cont.
+* [Lecture 20](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III
