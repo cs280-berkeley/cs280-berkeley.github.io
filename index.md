@@ -48,4 +48,4 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 ## Additional Materials
 
 * [SuperGlue Paper](https://www.dropbox.com/s/e2xgu02zhluja29/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf?dl=0)
-* [SuperPoint and SuperGlue Talk](https://www.dropbox.com/s/zi81v9r1826q42t/malisiewicz_superpoint_superglue_lessons_learned_june20_2022.pdf?dl=0)
+* [SuperPoint and SuperGlue Slides](https://www.dropbox.com/s/zi81v9r1826q42t/malisiewicz_superpoint_superglue_lessons_learned_june20_2022.pdf?dl=0)
