@@ -16,6 +16,7 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 ## Updates
 
+* Exam on Thursday 4/6 at 3:30PM in Soda 306!
 * Final project guideliness released
 * Written exam date announced
 * Assignment 2 released
@@ -42,3 +43,9 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Multi-view Geometry II
 * [Lecture 19](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/21) Multi-view Geometry II Cont.
 * [Lecture 20](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III
+* [Lecture 21](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III Cont.
+
+## Additional Materials
+
+* [SuperGlue Paper](https://www.dropbox.com/s/e2xgu02zhluja29/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf?dl=0)
+* [SuperPoint and SuperGlue Talk](https://www.dropbox.com/s/zi81v9r1826q42t/malisiewicz_superpoint_superglue_lessons_learned_june20_2022.pdf?dl=0)
