@@ -43,7 +43,7 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Multi-view Geometry II
 * [Lecture 19](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/21) Multi-view Geometry II Cont.
 * [Lecture 20](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III
-* [Lecture 21](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III Cont.
+* [Lecture 21](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (4/4) Multi-view Geometry III Cont.
 
 ## Additional Materials
 
