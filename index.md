@@ -16,10 +16,8 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 
 ## Updates
 
-* Exam on Thursday 4/6 at 3:30PM in Soda 306!
-* Final project guideliness released
-* Written exam date announced
-* Assignment 2 released
+* Project presentations on 5/9 at 3:30PM in Soda 306!
+* Final project presentation guideliness released
 
 ## Lectures
 
@@ -48,6 +46,8 @@ Students will receive access to Ed Discussion for class related discussions. Ple
 * [Lecture 23]() (4/13) Nerual Radiance Fields
 * [Lecture 24]() (4/18) Video and Language
 * [Lecture 25]() (4/20) Vision and Manipulation
+* [Lecture 26]() (4/25) Vision and Navigation
+* [Lecture 27]() (4/27) Vision and Locomotion
 
 ## Additional Materials
 
