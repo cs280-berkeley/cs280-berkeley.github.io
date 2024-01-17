@@ -7,7 +7,7 @@ layout: default
 UC Berkeley, Spring 2024  
 Time: MoWe 12:30PM - 1:59PM  
 Location: 1102 Berkeley Way West  
-Instructors: [Alexei Efros](https://people.eecs.berkeley.edu/~efros)  
+Instructor: [Alexei Efros](https://people.eecs.berkeley.edu/~efros)  
 GSIs:
 - [Lisa Dunlap](https://www.lisabdunlap.com/)
 - [Suzie Petryk](https://suziepetryk.com/)
