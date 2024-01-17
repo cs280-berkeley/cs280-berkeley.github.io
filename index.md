@@ -4,52 +4,55 @@ layout: default
 
 # CS 280: Computer Vision
 
-UC Berkeley, Spring 2023  
-Time: TuTh 3:30PM - 4:59PM  
-Location: Soda 306  
-Instructors: [Alexei Efros](https://people.eecs.berkeley.edu/~efros), [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)  
-GSI: [Ilija Radosavovic](https://people.eecs.berkeley.edu/~ilija)
+UC Berkeley, Spring 2024  
+Time: MoWe 12:30PM - 1:59PM  
+Location: 1102 Berkeley Way West  
+Instructors: [Alexei Efros](https://people.eecs.berkeley.edu/~efros)  
+GSIs:
+- [Lisa Dunlap](https://www.lisabdunlap.com/)
+- [Suzie Petryk](https://suziepetryk.com/)
 
-Undergraduate and masters enrollment policy: With permission from the instructors only. Please email the GSI for the enrollment form.
+Enrollment (including the waitlist) is at capacity. Students not enrolled may sit in on the lectures if there is space in the room.
 
-Students will receive access to Ed Discussion for class related discussions. Please email the GSI if you did not receive an invite.
+Students will receive access to Ed for class related discussions.
 
-## Updates
+Office hours will be posted here when they are set.
 
-* Project presentations on 5/9 at 3:30PM in Soda 306!
-* Final project presentation guideliness released
 
 ## Lectures
 
-* [Lecture 1](https://www.dropbox.com/s/sm0zvz29kyce8yc/malik-280-lec0.pdf?dl=0) (1/17) Introduction to Computer Vision
-* [Lecture 2](https://www.dropbox.com/s/tgv45wu1lrmqvnc/PerspectiveProjection%202023.pdf?dl=0) (1/19) Fundamentals of Image Formation
-* [Lecture 3](https://www.dropbox.com/s/a6s9hpacwu83f0l/malik-280-lec2.pdf?dl=0) (1/24) Radiometry of Image Formation
-* [Lecture 4](https://www.dropbox.com/s/3tfyn1sflnewbpk/malik-280-lec3.pdf?dl=0) (1/26) Color Vision
-* [Lecture 5](https://www.dropbox.com/s/ryd68lyd9yhiiho/malik-280-lec4.pdf?dl=0) (1/31) Human Vision
-* [Lecture 6](https://www.dropbox.com/s/2i24cfumd8c3z19/2023%20Image%20Processing.pdf?dl=0) (2/2) Image Processing
-* [Lecture 7](https://www.dropbox.com/s/2i24cfumd8c3z19/2023%20Image%20Processing.pdf?dl=0) (2/7) Image Processing Cont.
-* [Lecture 8](https://www.dropbox.com/s/xgj7vwe5n10gd8k/2023%20-%20Statistical%20Image%20Representations.pdf?dl=0) (2/9) Statistical Image Representations I
-* [Lecture 9](https://www.dropbox.com/s/nkjepq5ay6yxr3o/Sequence%20Models.pdf?dl=0) (2/14) Statistical Image Representations II
-* [Lecture 10](https://www.dropbox.com/s/hq0ojohvehcuirh/GenerativeModels.pdf?dl=0) (2/16) Generating Images from Noise
-* [Lecture 11](https://www.dropbox.com/s/u6c13ijcdnq6f87/ilija-280-detection.pdf?dl=0) (2/21) Object Detection
-* [Lecture 12](https://www.dropbox.com/s/0ou6b3gfiu9bby7/flow.pdf?dl=0) (2/23) Optical Flow
-* [Lecture 13](https://www.dropbox.com/s/8pi8u0ll1f3we73/2023%20slides%20correspondence_interest_points.pdf?dl=0) (2/28) Correspondence and Interest Points
-* [Lecture 14](https://www.dropbox.com/s/5meu7iknx79bodd/slides%20Scene%20Understanding.pdf?dl=0) (3/2) Perceptual Organization and Scene Understanding
-* [Lecture 15](https://www.dropbox.com/s/oxxp58bmlmd51nn/optical-flow-geometry.pdf?dl=0) (3/7) Optical Flow Geometry
-* [Lecture 16](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/9) Multi-view Geometry I
-* [Lecture 17](https://www.dropbox.com/s/pm3v9rrvfupqwj9/Multi-view-geometry.pdf?dl=0) (3/14) Multi-view Geometry I Cont.
-* [Lecture 18](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/16) Multi-view Geometry II
-* [Lecture 19](https://www.dropbox.com/s/o1o9kzl38fcb26n/Multi-view-geometry2.pdf?dl=0) (3/21) Multi-view Geometry II Cont.
-* [Lecture 20](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (3/23) Multi-view Geometry III
-* [Lecture 21](https://www.dropbox.com/s/7lwg28cfen2dvlw/Multi-view-geometry3.pdf?dl=0) (4/4) Multi-view Geometry III Cont.
-* [Lecture 22]() (4/11) 3D Humans and Tracking
-* [Lecture 23]() (4/13) Nerual Radiance Fields
-* [Lecture 24]() (4/18) Video and Language
-* [Lecture 25]() (4/20) Vision and Manipulation
-* [Lecture 26]() (4/25) Vision and Navigation
-* [Lecture 27]() (4/27) Vision and Locomotion
+Lecture slides will be posted online.
+
+* Lecture 1: (1/17) Introduction to Computer Vision
+* Lecture 2: (1/22) TBD
+* Lecture 3: (1/24) TBD
+* Lecture 4: (1/29) TBD
+* Lecture 5: (1/31) TBD
+* Lecture 6: (2/5) TBD
+* Lecture 7: (2/7) TBD
+* Lecture 8: (2/12) TBD
+* Lecture 9: (2/14) TBD
+* Lecture 10: (2/21) TBD
+* Lecture 11: (2/26) TBD
+* Lecture 12: (2/28) TBD
+* Lecture 13: (3/4) TBD
+* Lecture 14: (3/6) TBD
+* Lecture 15: (3/11) TBD
+* Lecture 16: (3/13) TBD
+* Lecture 17: (3/18) TBD
+* Lecture 18: (3/20) TBD
+* Lecture 19: (4/1) TBD
+* Lecture 20: (4/3) TBD
+* Lecture 21: (4/8) TBD
+* Lecture 22: (4/10) TBD
+* Lecture 23: (4/15) TBD
+* Lecture 24: (4/17) TBD
+* Lecture 25: (4/22) TBD
+* Lecture 26: (4/24) TBD
+
 
 ## Additional Materials
 
-* [SuperGlue Paper](https://www.dropbox.com/s/e2xgu02zhluja29/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf?dl=0)
-* [SuperPoint and SuperGlue Slides](https://www.dropbox.com/s/zi81v9r1826q42t/malisiewicz_superpoint_superglue_lessons_learned_june20_2022.pdf?dl=0)
+* [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) (not required to own, but what the course is generally based from)
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) (available free online)
+
