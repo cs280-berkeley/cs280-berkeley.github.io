@@ -18,6 +18,8 @@ Students will receive access to Ed for class related discussions.
 
 Office hours will be posted here when they are set.
 
+**Required textbook:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Textbook is not out yet - arrangements will be made.
+
 
 ## Lectures
 
@@ -53,6 +55,5 @@ Lecture slides will be posted online.
 
 ## Additional Materials
 
-* [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) (not required to own, but what the course is generally based from)
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) (available free online)
 
