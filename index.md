@@ -6,19 +6,21 @@ layout: default
 
 UC Berkeley, Spring 2024  
 Time: MoWe 12:30PM - 1:59PM  
-Location: 1102 Berkeley Way West  
+Location: 1102 Berkeley Way West
 Instructor: [Alexei Efros](https://people.eecs.berkeley.edu/~efros)  
 GSIs:
 - [Lisa Dunlap](https://www.lisabdunlap.com/)
 - [Suzie Petryk](https://suziepetryk.com/)
 
+**Office hours** will be posted here when they are set.
 
+**Email policy:** Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
 
 Enrollment (including the waitlist) is at capacity. Students not enrolled may sit in on the lectures if there is space in the room.
 
-Students will receive access to Ed for class related discussions.
+We are using Ed Discussion for communication (private or public) as much as possible.
 
-Office hours will be posted here when they are set.
+
 
 **Required textbook:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Textbook is not out yet - arrangements will be made.
 
