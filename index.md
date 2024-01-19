@@ -20,8 +20,6 @@ Enrollment (including the waitlist) is at capacity. Students not enrolled may si
 
 We are using Ed Discussion for communication (private or public) as much as possible.
 
-
-
 **Required textbook:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Textbook is not out yet - arrangements will be made.
 
 
@@ -29,7 +27,7 @@ We are using Ed Discussion for communication (private or public) as much as poss
 
 Lecture slides will be posted online.
 
-* Lecture 1: (1/17) Introduction to Computer Vision
+* Lecture 1: (1/17) [Introduction to Computer Vision](https://cs280-berkeley.github.io/resources/lectures/cs280_intro_sp_2024.pdf)
 * Lecture 2: (1/22) TBD
 * Lecture 3: (1/24) TBD
 * Lecture 4: (1/29) TBD
