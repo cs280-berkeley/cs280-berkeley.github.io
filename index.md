@@ -12,6 +12,8 @@ GSIs:
 - [Lisa Dunlap](https://www.lisabdunlap.com/)
 - [Suzie Petryk](https://suziepetryk.com/)
 
+
+
 Enrollment (including the waitlist) is at capacity. Students not enrolled may sit in on the lectures if there is space in the room.
 
 Students will receive access to Ed for class related discussions.
@@ -56,4 +58,5 @@ Lecture slides will be posted online.
 ## Additional Materials
 
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) (available free online)
+* [Spring 2023 Course Website](https://cs280-berkeley.github.io/sp23)
 
