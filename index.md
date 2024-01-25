@@ -28,8 +28,8 @@ We are using Ed Discussion for communication (private or public) as much as poss
 Lecture slides will be posted online.
 
 * Lecture 1: (1/17) [Introduction to Computer Vision](https://cs280-berkeley.github.io/resources/lectures/cs280_intro_sp_2024.pdf)
-* Lecture 2: (1/22) TBD
-* Lecture 3: (1/24) TBD
+* Lecture 2: (1/22) [Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/e0jrvuenkn678mfxv6nau/PerspectiveProjection-2024.pdf?rlkey=nd6sd9kuyxo01t07yoqzh2gkn&dl=0)
+* Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://www.dropbox.com/scl/fi/6a44slsvqh6y4tvcsncf5/BlocksWorld-2024.pdf?rlkey=nayn1qptk76cpsy3kmy2tu504&dl=0)
 * Lecture 4: (1/29) TBD
 * Lecture 5: (1/31) TBD
 * Lecture 6: (2/5) TBD
