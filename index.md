@@ -12,7 +12,12 @@ GSIs:
 - [Lisa Dunlap](https://www.lisabdunlap.com/)
 - [Suzie Petryk](https://suziepetryk.com/)
 
-**Office hours** will be posted here when they are set.
+
+**Office hours** 
+
+Suzie: Sun 10am-11am (location to be posted on Ed, this week only)
+
+Lisa: Wed 11:30-12:30, BWW first floor, by security desk (room arrangements hopefully to come)
 
 **Email policy:** Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
 
@@ -20,7 +25,7 @@ Enrollment (including the waitlist) is at capacity. Students not enrolled may si
 
 We are using Ed Discussion for communication (private or public) as much as possible.
 
-**Required textbook:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Textbook is not out yet - arrangements will be made.
+**Magical course textbook that isn't  actually out:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Selected chapters posted on bcourses and Ed.
 
 
 ## Lectures
@@ -28,10 +33,10 @@ We are using Ed Discussion for communication (private or public) as much as poss
 Lecture slides will be posted online.
 
 * Lecture 1: (1/17) [Introduction to Computer Vision](https://cs280-berkeley.github.io/resources/lectures/cs280_intro_sp_2024.pdf)
-* Lecture 2: (1/22) [Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/e0jrvuenkn678mfxv6nau/PerspectiveProjection-2024.pdf?rlkey=nd6sd9kuyxo01t07yoqzh2gkn&dl=0)
-* Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://www.dropbox.com/scl/fi/6a44slsvqh6y4tvcsncf5/BlocksWorld-2024.pdf?rlkey=nayn1qptk76cpsy3kmy2tu504&dl=0)
-* Lecture 4: (1/29) [Transformations](https://www.dropbox.com/scl/fi/agdslu0glyt92uy7wht1f/Transforms.pdf?rlkey=slpmmm1ve0yxwlserxdnb2iuw&dl=0)
-* Lecture 5: (1/31) TBD
+* Lecture 2: (1/22) [Fundamentals of Image Formation](https://cs280-berkeley.github.io/resources/lectures/PerspectiveProjection_2024.pdf)
+* Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://cs280-berkeley.github.io/resources/lectures/BlocksWorld_2024.pdf)
+* Lecture 4: (1/29) [Transformations](https://cs280-berkeley.github.io/resources/lectures/Transforms_2024.pdf)
+* Lecture 5: (1/31) [Radiometry](https://cs280-berkeley.github.io/resources/lectures/Radiometry_2024.pdf)
 * Lecture 6: (2/5) TBD
 * Lecture 7: (2/7) TBD
 * Lecture 8: (2/12) TBD
