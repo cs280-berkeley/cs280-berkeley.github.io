@@ -15,9 +15,9 @@ GSIs:
 
 **Office hours** 
 
-Suzie: Sun 10am-11am (location to be posted on Ed, this week only)
+- Suzie: Sun 10am-11am (location to be posted on Ed, this week only)
 
-Lisa: Wed 11:30-12:30, BWW first floor, by security desk (room arrangements hopefully to come)
+- Lisa: Wed 11:30-12:30, BWW first floor, by security desk (room arrangements hopefully to come)
 
 **Email policy:** Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
 
@@ -58,6 +58,12 @@ Lecture slides will be posted online.
 * Lecture 24: (4/17) TBD
 * Lecture 25: (4/22) TBD
 * Lecture 26: (4/24) TBD
+
+## Assignments
+
+All questions should be asked on Ed or in OH. All assignments will be submitted to bcourses. 
+
+* [HW1 is out!](https://edstem.org/us/courses/54175/discussion/4183683) Due Monday, Feb 5th at 11:59pm
 
 
 ## Additional Materials
