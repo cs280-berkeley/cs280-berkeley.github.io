@@ -32,11 +32,11 @@ We are using Ed Discussion for communication (private or public) as much as poss
 
 Lecture slides will be posted online.
 
-* Lecture 1: (1/17) [Introduction to Computer Vision](https://cs280-berkeley.github.io/resources/lectures/cs280_intro_sp_2024.pdf)
-* Lecture 2: (1/22) [Fundamentals of Image Formation](https://cs280-berkeley.github.io/resources/lectures/PerspectiveProjection_2024.pdf)
-* Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://cs280-berkeley.github.io/resources/lectures/BlocksWorld_2024.pdf)
-* Lecture 4: (1/29) [Transformations](https://cs280-berkeley.github.io/resources/lectures/Transforms_2024.pdf)
-* Lecture 5: (1/31) [Radiometry](https://cs280-berkeley.github.io/resources/lectures/Radiometry_2024.pdf)
+* Lecture 1: (1/17) [Introduction to Computer Vision](https://drive.google.com/file/d/1nbQe6K7yrtVGOkrEY8g6iVmvmPtgCuTE/view?usp=sharing)
+* Lecture 2: (1/22) [Fundamentals of Image Formation](https://drive.google.com/file/d/1llg4aQr-rYFQUO0RFzcK277A0g2U6KNs/view?usp=sharing)
+* Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://drive.google.com/file/d/1z4N4kdPNDWNvgtmC7zDLanWCx4CoDSMh/view?usp=sharing)
+* Lecture 4: (1/29) [Transformations](https://drive.google.com/file/d/1FeOpe_ACpOTNEK5gHUK0RwyyBwj7f0Oh/view?usp=sharing)
+* Lecture 5: (1/31) [Radiometry](https://drive.google.com/file/d/1JE2d8ZfsCr1LYM5bqvWSkbn0zUdJHKVi/view?usp=sharing)
 * Lecture 6: (2/5) TBD
 * Lecture 7: (2/7) TBD
 * Lecture 8: (2/12) TBD
