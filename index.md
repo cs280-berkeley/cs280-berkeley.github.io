@@ -13,11 +13,11 @@ GSIs:
 - [Suzie Petryk](https://suziepetryk.com/)
 
 
-**Office hours** 
+**Office hours - Room 1024, first floor of Berkeley Way West** 
 
-- Suzie: Sun 10am-11am (location to be posted on Ed, this week only)
+- Suzie: Thursday 11-12pm
 
-- Lisa: Wed 11:30-12:30, BWW first floor, by security desk (room arrangements hopefully to come)
+- Lisa: Wed 11:30-12:30pm
 
 **Email policy:** Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
 
