@@ -39,7 +39,7 @@ Lecture slides will be posted online.
 * Lecture 5: (1/31) [Radiometry](https://drive.google.com/file/d/1JE2d8ZfsCr1LYM5bqvWSkbn0zUdJHKVi/view?usp=sharing)
 * Lecture 6: (2/5) [Biological Vision Pt. 1](https://drive.google.com/file/d/1-0nhi-liSLdckVAKbGpQXAHqBuMz0fto/view?usp=sharing)
 * Lecture 7: (2/7) [Biological Vision Pt. 2](https://drive.google.com/file/d/1-0nhi-liSLdckVAKbGpQXAHqBuMz0fto/view?usp=sharing)
-* Lecture 8: (2/12) [Linear Systems in Vision](https://www.dropbox.com/scl/fi/p759pxjszvv34zm4cxa7f/LinearSystesms.pdf?rlkey=jlefliy5dsrr6rsuqkss78add&dl=0)
+* Lecture 8: (2/12) [Linear Systems in Vision](https://drive.google.com/file/d/1ImOvO_BdXEE9vsbQY_7OADGWoLGIsxi3/view?usp=sharing)
 * Lecture 9: (2/14) [Spatial & Temporal Filtering](https://drive.google.com/file/d/1_fULF0b1Gqxd3DM1Y3J8CzoDTkGBp1b8/view?usp=sharing)
 * Lecture 10: (2/21) TBD
 * Lecture 11: (2/26) TBD
