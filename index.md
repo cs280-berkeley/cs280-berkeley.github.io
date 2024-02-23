@@ -37,11 +37,11 @@ Lecture slides will be posted online.
 * Lecture 3: (1/24) [Blocks World: A Simple Vision System](https://drive.google.com/file/d/1z4N4kdPNDWNvgtmC7zDLanWCx4CoDSMh/view?usp=sharing)
 * Lecture 4: (1/29) [Transformations](https://drive.google.com/file/d/1FeOpe_ACpOTNEK5gHUK0RwyyBwj7f0Oh/view?usp=sharing)
 * Lecture 5: (1/31) [Radiometry](https://drive.google.com/file/d/1JE2d8ZfsCr1LYM5bqvWSkbn0zUdJHKVi/view?usp=sharing)
-* Lecture 6: (2/5) [Biological Vision Pt. 1](https://drive.google.com/file/d/1-0nhi-liSLdckVAKbGpQXAHqBuMz0fto/view?usp=sharing)
-* Lecture 7: (2/7) [Biological Vision Pt. 2](https://drive.google.com/file/d/1-0nhi-liSLdckVAKbGpQXAHqBuMz0fto/view?usp=sharing)
+* Lecture 6: (2/5) [Biological Vision Pt. 1](https://drive.google.com/file/d/1sWZDqlWHPiexhnOjQkU7ts-xP_-haeRl/view?usp=sharing)
+* Lecture 7: (2/7) [Biological Vision Pt. 2](https://drive.google.com/file/d/1sWZDqlWHPiexhnOjQkU7ts-xP_-haeRl/view?usp=sharing)
 * Lecture 8: (2/12) [Linear Systems in Vision](https://drive.google.com/file/d/1ImOvO_BdXEE9vsbQY_7OADGWoLGIsxi3/view?usp=sharing)
 * Lecture 9: (2/14) [Spatial & Temporal Filtering](https://drive.google.com/file/d/1_fULF0b1Gqxd3DM1Y3J8CzoDTkGBp1b8/view?usp=sharing)
-* Lecture 10: (2/21) TBD
+* Lecture 10: (2/21) [Sampling, Reconstruction, Pyramids](https://drive.google.com/file/d/1nUb3yt_XhQ6DALpsdMHg63qVE0QVqbQj/view?usp=sharing)
 * Lecture 11: (2/26) TBD
 * Lecture 12: (2/28) TBD
 * Lecture 13: (3/4) TBD
