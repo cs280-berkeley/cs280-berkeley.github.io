@@ -13,7 +13,7 @@ GSIs:
 - [Suzie Petryk](https://suziepetryk.com/)
 
 
-**Office hours - Room 1024, first floor of Berkeley Way West** 
+**Office hours - Room 1204, first floor of Berkeley Way West** 
 
 - Suzie: Thursday 11-12pm
 
