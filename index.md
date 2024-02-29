@@ -21,11 +21,9 @@ GSIs:
 
 **Email policy:** Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
 
-Enrollment (including the waitlist) is at capacity. Students not enrolled may sit in on the lectures if there is space in the room.
-
 We are using Ed Discussion for communication (private or public) as much as possible.
 
-**Magical course textbook that isn't  actually out:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. Selected chapters posted on bcourses and Ed.
+**Magical course textbook that isn't  actually out:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman. 
 
 
 ## Lectures
