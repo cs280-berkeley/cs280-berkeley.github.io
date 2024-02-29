@@ -42,11 +42,11 @@ Lecture slides will be posted online.
 * Lecture 8: (2/12) [Linear Systems in Vision](https://drive.google.com/file/d/1ImOvO_BdXEE9vsbQY_7OADGWoLGIsxi3/view?usp=sharing)
 * Lecture 9: (2/14) [Spatial & Temporal Filtering](https://drive.google.com/file/d/1_fULF0b1Gqxd3DM1Y3J8CzoDTkGBp1b8/view?usp=sharing)
 * Lecture 10: (2/21) [Sampling, Reconstruction, Pyramids](https://drive.google.com/file/d/1nUb3yt_XhQ6DALpsdMHg63qVE0QVqbQj/view?usp=sharing)
-* Lecture 11: (2/26) TBD
-* Lecture 12: (2/28) TBD
-* Lecture 13: (3/4) TBD
-* Lecture 14: (3/6) TBD
-* Lecture 15: (3/11) TBD
+* Lecture 11: (2/26) [Pyramids and Conv Nets](https://drive.google.com/file/d/1C1Qy5nWQzgVnfTsJQ-lEfe4KYMIKyE0T/view?usp=sharing)
+* Lecture 12: (2/28) [Conv Nets Pt 2](https://drive.google.com/file/d/1nEHajYJoTx4sxEGhwvW6RtlzcQHMl5kQ/view?usp=sharing)
+* Lecture 13: (3/4) Probably more neural nets
+* Lecture 14: (3/6) Also probably more neural nets
+* Lecture 15: (3/11) Possibly more neural nets?
 * Lecture 16: (3/13) TBD
 * Lecture 17: (3/18) TBD
 * Lecture 18: (3/20) TBD
