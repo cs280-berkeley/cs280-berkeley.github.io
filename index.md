@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+![CS 280: Computer Vision](resources/banner.jpg)
 
-# CS 280: Computer Vision
+# Logistics
 
 UC Berkeley, Spring 2024  
 Time: MoWe 12:30PM - 1:59PM  
@@ -42,10 +43,10 @@ Lecture slides will be posted online.
 * Lecture 10: (2/21) [Sampling, Reconstruction, Pyramids](https://drive.google.com/file/d/1nUb3yt_XhQ6DALpsdMHg63qVE0QVqbQj/view?usp=sharing)
 * Lecture 11: (2/26) [Pyramids and Conv Nets](https://drive.google.com/file/d/1C1Qy5nWQzgVnfTsJQ-lEfe4KYMIKyE0T/view?usp=sharing)
 * Lecture 12: (2/28) [Conv Nets Pt 2](https://drive.google.com/file/d/1nEHajYJoTx4sxEGhwvW6RtlzcQHMl5kQ/view?usp=sharing)
-* Lecture 13: (3/4) Probably more neural nets
-* Lecture 14: (3/6) Also probably more neural nets
-* Lecture 15: (3/11) Possibly more neural nets?
-* Lecture 16: (3/13) TBD
+* Lecture 13: (3/4) [ConvNets Pt 3](https://drive.google.com/file/d/1ow8HEjpcytkN7R9uhecnRYNoseVovjaL/view?usp=sharing)
+* Lecture 14: (3/6) [Representation Learning](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
+* Lecture 15: (3/11) Transformers!
+* Lecture 16: (3/13) More representation learning
 * Lecture 17: (3/18) TBD
 * Lecture 18: (3/20) TBD
 * Lecture 19: (4/1) TBD
@@ -62,6 +63,7 @@ Lecture slides will be posted online.
 All questions should be asked on Ed or in OH. All assignments will be submitted to bcourses. 
 
 * [HW1 is out!](https://edstem.org/us/courses/54175/discussion/4183683) Due Monday, Feb 5th at 11:59pm
+* [HW2 is out!](https://edstem.org/us/courses/54175/discussion/4417564) Due Monday, March 5th at 11:59pm
 
 
 ## Additional Materials
