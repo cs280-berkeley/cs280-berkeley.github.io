@@ -45,7 +45,7 @@ Lecture slides will be posted online.
 * Lecture 12: (2/28) [Conv Nets Pt 2](https://drive.google.com/file/d/1nEHajYJoTx4sxEGhwvW6RtlzcQHMl5kQ/view?usp=sharing)
 * Lecture 13: (3/4) [ConvNets Pt 3](https://drive.google.com/file/d/1ow8HEjpcytkN7R9uhecnRYNoseVovjaL/view?usp=sharing)
 * Lecture 14: (3/6) [Representation Learning](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
-* Lecture 15: (3/11) Transformers!
+* Lecture 15: (3/11) [Transformers!](https://drive.google.com/file/d/1-EdO7q5YJFqufV4xyb_o6iVlVWmC6Yyy/view?usp=sharing)
 * Lecture 16: (3/13) More representation learning
 * Lecture 17: (3/18) TBD
 * Lecture 18: (3/20) TBD
