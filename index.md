@@ -45,14 +45,14 @@ Lecture slides will be posted online.
 * Lecture 12: (2/28) [Conv Nets Pt 2](https://drive.google.com/file/d/1nEHajYJoTx4sxEGhwvW6RtlzcQHMl5kQ/view?usp=sharing)
 * Lecture 13: (3/4) [ConvNets Pt 3](https://drive.google.com/file/d/1ow8HEjpcytkN7R9uhecnRYNoseVovjaL/view?usp=sharing)
 * Lecture 14: (3/6) [Representation Learning](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
-* Lecture 15: (3/11) [Transformers!](https://drive.google.com/file/d/1-EdO7q5YJFqufV4xyb_o6iVlVWmC6Yyy/view?usp=sharing)
-* Lecture 16: (3/13) More representation learning
-* Lecture 17: (3/18) TBD
-* Lecture 18: (3/20) TBD
-* Lecture 19: (4/1) TBD
-* Lecture 20: (4/3) TBD
-* Lecture 21: (4/8) TBD
-* Lecture 22: (4/10) TBD
+* Lecture 15: (3/11) [Transformers!](https://drive.google.com/file/d/1UwyGAONtktCzuSbW2VUj6Dd488OXH9BQ/view?usp=sharing)
+* Lecture 16: (3/13) [Self-Supervised Learning](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
+* Lecture 17: (3/18) [Self-Supervised Learning Pt 2](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
+* Lecture 18: (3/20) Autoregressive Modeling
+* Lecture 19: (4/1) Diffusion Models!
+* Lecture 20: (4/3) Maybe 3D
+* Lecture 21: (4/8) Maybe Datasets
+* Lecture 22: (4/10) Maybe Video 
 * Lecture 23: (4/15) TBD
 * Lecture 24: (4/17) TBD
 * Lecture 25: (4/22) TBD
