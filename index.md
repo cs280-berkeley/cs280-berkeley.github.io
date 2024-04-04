@@ -46,17 +46,17 @@ Lecture slides will be posted online.
 * Lecture 13: (3/4) [ConvNets Pt 3](https://drive.google.com/file/d/1ow8HEjpcytkN7R9uhecnRYNoseVovjaL/view?usp=sharing)
 * Lecture 14: (3/6) [Representation Learning](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
 * Lecture 15: (3/11) [Transformers!](https://drive.google.com/file/d/1UwyGAONtktCzuSbW2VUj6Dd488OXH9BQ/view?usp=sharing)
-* Lecture 16: (3/13) [Self-Supervised Learning](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
-* Lecture 17: (3/18) [Self-Supervised Learning Pt 2](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
-* Lecture 18: (3/20) Autoregressive Modeling
-* Lecture 19: (4/1) Diffusion Models!
-* Lecture 20: (4/3) Maybe 3D
-* Lecture 21: (4/8) Maybe Datasets
-* Lecture 22: (4/10) Maybe Video 
-* Lecture 23: (4/15) TBD
-* Lecture 24: (4/17) TBD
-* Lecture 25: (4/22) TBD
-* Lecture 26: (4/24) TBD
+* Lecture 16: (3/13) [Representation Learning pt 2](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
+* Lecture 17: (3/18) [Self-Supervised Learning](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
+* Lecture 18: (3/20) [Self-Supervised Learning Pt 2](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
+* Lecture 19: (4/1) [Texture Models](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
+* Lecture 20: (4/3) [Texture Models pt 2](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
+* Lecture 21: (4/8) Diffusion Models!
+* Lecture 22: (4/10) Maybe more generative model stuff
+* Lecture 23: (4/15) Maybe Datasets? Maybe Alyosha will let Lisa co-lecture so this will be the best lecture
+* Lecture 24: (4/17) Orthographic Projects are somewhere in here
+* Lecture 25: (4/22) Maybe 3D goes here
+* Lecture 26: (4/24) ...AGI?
 
 ## Assignments
 
