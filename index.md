@@ -64,6 +64,7 @@ All questions should be asked on Ed or in OH. All assignments will be submitted 
 
 * [HW1 is out!](https://edstem.org/us/courses/54175/discussion/4183683) Due Monday, Feb 5th at 11:59pm
 * [HW2 is out!](https://edstem.org/us/courses/54175/discussion/4417564) Due Monday, March 5th at 11:59pm
+* [HW3 is out!](https://edstem.org/us/courses/54175/discussion/4685142) Due Tuesday, April 9th at 11:59pm
 
 
 ## Additional Materials
