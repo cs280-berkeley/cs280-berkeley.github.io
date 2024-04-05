@@ -48,7 +48,7 @@ Lecture slides will be posted online.
 * Lecture 15: (3/11) [Transformers!](https://drive.google.com/file/d/1UwyGAONtktCzuSbW2VUj6Dd488OXH9BQ/view?usp=sharing)
 * Lecture 16: (3/13) [Representation Learning pt 2](https://drive.google.com/file/d/1z5hmeDMtTcBOmFNudOUAObe9A_Qk-wYV/view?usp=sharing)
 * Lecture 17: (3/18) [Self-Supervised Learning](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
-* Lecture 18: (3/20) [Self-Supervised Learning Pt 2](https://drive.google.com/file/d/1Ym1wr8rXGunl-TgVdV_5DNegfmzFLws8/view?usp=sharing)
+* Lecture 18: (3/20) [Autoregressive Models](https://drive.google.com/file/d/1imvvvFsakhnvLGf5GJ_14Oc_tiiEkPpX/view?usp=sharing)
 * Lecture 19: (4/1) [Texture Models](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
 * Lecture 20: (4/3) [Texture Models pt 2](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
 * Lecture 21: (4/8) Diffusion Models!
