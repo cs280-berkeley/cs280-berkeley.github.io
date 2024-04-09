@@ -54,8 +54,8 @@ Lecture slides will be posted online.
 * Lecture 21: (4/8) Diffusion Models!
 * Lecture 22: (4/10) Maybe more generative model stuff
 * Lecture 23: (4/15) Maybe Datasets? Efros said Lisa can co-lecture so this will be the best lecture
-* Lecture 24: (4/17) Orthographic Projects are somewhere in here
-* Lecture 25: (4/22) Maybe 3D goes here
+* Lecture 24: (4/17) Exam (duh duh duh)
+* Lecture 25: (4/22) Orthographic Projects are somewhere in here
 * Lecture 26: (4/24) ...AGI?
 
 ## Assignments
