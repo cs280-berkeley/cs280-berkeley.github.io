@@ -51,9 +51,9 @@ Lecture slides will be posted online.
 * Lecture 18: (3/20) [Autoregressive Models](https://drive.google.com/file/d/1imvvvFsakhnvLGf5GJ_14Oc_tiiEkPpX/view?usp=sharing)
 * Lecture 19: (4/1) [Texture Models](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
 * Lecture 20: (4/3) [Texture Models pt 2](https://drive.google.com/file/d/1o5OnYijZ0TehS_TOASKeBfLQfY6rqtvB/view?usp=sharing)
-* Lecture 21: (4/8) Diffusion Models!
-* Lecture 22: (4/10) Stereo
-* Lecture 23: (4/15) 3D/Maybe Datasets? Efros said Lisa can co-lecture so this will be the best lecture
+* Lecture 21: (4/8) [Diffusion Models!](https://drive.google.com/file/d/1JfSeb0b78qPUyFIyHD0eeIQ8MJ80z58G/view?usp=sharing)
+* Lecture 22: (4/10) [Stereo and Epipolar Geometry](https://drive.google.com/file/d/1jGnDloPixUwoMOoXXGRn0GGy7kDZLluG/view?usp=sharing)
+* Lecture 23: (4/15) [Stereo and Epipolar Geometry pt 2](https://drive.google.com/file/d/1jGnDloPixUwoMOoXXGRn0GGy7kDZLluG/view?usp=sharing)
 * Lecture 24: (4/17) Exam (duh duh duh)
 * Lecture 25: (4/22) Orthographic Projects are somewhere in here
 * Lecture 26: (4/24) ...AGI?
