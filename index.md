@@ -55,8 +55,8 @@ Lecture slides will be posted online.
 * Lecture 22: (4/10) [Stereo and Epipolar Geometry](https://drive.google.com/file/d/1jGnDloPixUwoMOoXXGRn0GGy7kDZLluG/view?usp=sharing)
 * Lecture 23: (4/15) [Stereo and Epipolar Geometry pt 2](https://drive.google.com/file/d/1jGnDloPixUwoMOoXXGRn0GGy7kDZLluG/view?usp=sharing)
 * Lecture 24: (4/17) Exam (duh duh duh)
-* Lecture 25: (4/22) Orthographic Projects are somewhere in here
-* Lecture 26: (4/24) ...AGI?
+* Lecture 25: (4/22) [Struture From Motion](https://drive.google.com/file/d/1FbZsbLcJMlFtVRIZpGuUmyo8Te5ySdXj/view?usp=sharing)
+* Lecture 26: (4/24) [Data!](https://drive.google.com/file/d/1Z3PB2JEC1fCfmiXVHmQXK8nwtDnFa65l/view?usp=sharing)
 
 ## Assignments
 
