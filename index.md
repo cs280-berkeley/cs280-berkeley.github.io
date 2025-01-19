@@ -9,6 +9,7 @@ layout: default
 UC Berkeley, Spring 2025  
 Time: Monday, Wednesday 2:00PM - 3:29PM  
 Location: 1102 Berkeley Way West
+Ed: [CS280 SP25 Ed](https://edstem.org/us/join/7MWJJ5)
 
 Instructors: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa)   
 
@@ -44,8 +45,8 @@ Lecture slides will be posted after leture. Schedule is tentative.
 * Lecture 12: (3/10) [Sequence Models]()
 * Lecture 13: (3/12) [Perceptual Grouping]()
 * Lecture 14: (3/17) [Object Recognition and Detection]()
-* Lecture 15: (3/19) [Midterm!!]()
-* Lecture 16: (3/31) [Vsion and Language]()
+* Lecture 15: (3/19) [**Midterm!!**]()
+* Lecture 16: (3/31) [Vision and Language]()
 * Lecture 17: (4/02) [What Makes a Good Representation]()
 * Lecture 18: (4/07) [3D Humans (Learning: Analysis-by-Synthesis)]()
 * Lecture 19: (4/09) [3D Perception in Egocentric and Allocentric Coordinate Frame]()
@@ -57,7 +58,7 @@ Lecture slides will be posted after leture. Schedule is tentative.
 * Lecture 25: (4/30) [Finale]()
 
 ## Assignments
-* [HW0 (will be released 1/22)](https://edstem.org/us/courses/54175/discussion/4417564): Due Tuesday, 2/04 at 11:59pm
+* [HW0 (will be released 1/22)](): Due Tuesday, 2/04 at 11:59pm
 
 ## Additional Materials
 
