@@ -33,7 +33,7 @@ Lecture slides will be posted after leture. Schedule is tentative.
 * Lecture 0: (1/22) [Logistics and the Human Vision System]()
 
 ## Assignments
-* [HW0 (will be released 1/22)](): Due Tuesday, 2/04 at 11:59pm
+* [HW0 (will be released 1/22)](): Due Tuesday, 01/27 at 11:59pm
 
 ## Additional Materials
 
