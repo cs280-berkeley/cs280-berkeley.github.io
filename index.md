@@ -17,12 +17,13 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 
 
 **Office hours - Location: TBD** 
-
+- Jitendra Malik: After lecture
+- Angjoo Kanazawa: After lecture
 - Jathushan: TBD
 - Rahul: TBD
 - Ryan: TBD
 
-**Policy:** Please see the [syllabus (not yet available)]() for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
+**Policy:** Please see the [syllabus (not yet available)]() for administrative details. To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
 
 **Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A. We will not be teaching basic image processing (convolution, gaussian smoothing, fourier transforms), basic deep learning (PyTorch, Jax, TensorFlow), stereo/homography.
 
