@@ -10,6 +10,7 @@ UC Berkeley, Spring 2025
 Time: Monday, Wednesday 2:00PM - 3:29PM  
 Location: 1102 Berkeley Way West  
 Ed: [CS280 SP25 Ed](https://edstem.org/us/join/7MWJJ5)
+Gradescope Code: 8KVE8D
 
 Instructors: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa)   
 
