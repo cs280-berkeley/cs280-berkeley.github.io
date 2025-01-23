@@ -30,12 +30,12 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 
 ## Lectures
 
-Lecture slides will be posted after leture. Schedule is tentative.
+Lecture slides will be posted after leture.
 
 * [Lecture 1: (1/22) Course Intro. and Fundamentals of Image Formation](lectures/lect1.pdf)
 
 ## Assignments
-* [HW0 (will be released 1/22)](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
+* [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 
 ## Additional Materials
 
