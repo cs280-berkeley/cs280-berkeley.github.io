@@ -33,6 +33,7 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 Lecture slides will be posted after leture.
 
 * [Lecture 1: (1/22) Course Intro. and Fundamentals of Image Formation](lectures/lect1.pdf)
+* [Lecture 2: (1/27) Camera Calibration](lectures/lect2.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
