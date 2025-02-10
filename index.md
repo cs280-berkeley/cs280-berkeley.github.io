@@ -39,6 +39,7 @@ Lecture slides will be posted after leture.
 * [Lecture 5: 2/05) Dynamic Perspective](lectures/lect5.pdf)
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
+* [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
 
 ## Additional Materials
 
