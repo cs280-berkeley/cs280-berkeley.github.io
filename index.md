@@ -37,6 +37,9 @@ Lecture slides will be posted after leture.
 * [Lecture 3: 1/29) Calibration, Binocular Perspective](lectures/lect3.pdf)
 * [Lecture 4: 2/03) Multi-View Geometry](lectures/lect4.pdf)
 * [Lecture 5: 2/05) Dynamic Perspective](lectures/lect5.pdf)
+* [Lecture 6: 2/10) Radiometry of Images](lectures/lect6.pdf)
+* [Lecture 7: 2/12) Color Vision](lectures/lect7.pdf)
+
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 * [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
