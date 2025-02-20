@@ -39,6 +39,7 @@ Lecture slides will be posted after leture.
 * [Lecture 5: 2/05) Dynamic Perspective](lectures/lect5.pdf)
 * [Lecture 6: 2/10) Radiometry of Images](lectures/lect6.pdf)
 * [Lecture 7: 2/12) Color Vision](lectures/lect7.pdf)
+* [Lecture 8: 2/19) Human Vision](lectures/lect8.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
