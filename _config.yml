@@ -7,3 +7,5 @@ url: "http://cs280-berkeley.github.io" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: true

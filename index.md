@@ -31,7 +31,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 TBD
 
 ## Assignments
-TBD
+* [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due Tuesday, 01/27 at 11:59pm
 
 ## Additional Materials
 
