@@ -10,7 +10,7 @@ UC Berkeley, Spring 2026
 Time: TuTh 15:30-16:59
 Location: Hearst Mining 390
 Ed: [https://edstem.org/us/join/bX8tGp](https://edstem.org/us/join/bX8tGp)
-Gradescope Code: TBD
+Gradescope Code: G66BDW
 
 Instructors: [Alyosha Efros](https://people.eecs.berkeley.edu/~efros), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa)
 
