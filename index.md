@@ -17,18 +17,18 @@ Instructors: [Alyosha Efros](https://people.eecs.berkeley.edu/~efros), [Angjoo K
 GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com/)
 
 
-**Office hours - Location: TBD**
-- Alyosha Efros: TBD
-- Angjoo Kanazawa: TBD
-- Jiaxin Ge: TBD
-- Jorge Diaz Chao: TBD
+**Office hours - Location**
+- Alyosha Efros: After Lecture
+- Angjoo Kanazawa: After Lecture
+- Jiaxin Ge: Thursday 6-7pm Dwinelle Hall
+- Jorge Diaz Chao: Monday 12-1pm BWW First Floor
 
 **Policy:** To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
 
 **Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A. We will not be teaching basic image processing (convolution, gaussian smoothing, fourier transforms), basic deep learning (PyTorch, Jax, TensorFlow), stereo/homography.
 
 ## Lectures
-TBD
+* [Lecture 1: (1/20) Course Intro. and Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/b9dmslb1w4wxro5mjjg2h/first-lecture-intro.pptx?rlkey=omqej6eksamt10usu1g96nx5i&e=1&st=j4nonv6u&dl=0)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due Tuesday, 01/27 at 11:59pm
