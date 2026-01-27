@@ -31,8 +31,8 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 1: (1/20) Course Intro. and Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/b9dmslb1w4wxro5mjjg2h/first-lecture-intro.pptx?rlkey=omqej6eksamt10usu1g96nx5i&e=1&st=j4nonv6u&dl=0)
 * [Lecture 2: (1/22) Camera Calibration](https://docs.google.com/presentation/d/1Y-LmmuN82IhxBLV57SEApz8cVVXOsi8G/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
 ## Assignments
-* [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due Tuesday, 01/27 at 11:59pm
-
+* [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
+* [HW1](https://drive.google.com/file/d/1hvyTtXdbgOc75jpLZHAiW37uAZyL6Kln/view?usp=sharing): Due 02/10 at 11:59pm
 ## Additional Materials
 
 * [Spring 2025 Course Website](https://cs280-berkeley.github.io/sp25)
