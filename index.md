@@ -30,6 +30,9 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 ## Lectures
 * [Lecture 1: (1/20) Course Intro. and Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/b9dmslb1w4wxro5mjjg2h/first-lecture-intro.pptx?rlkey=omqej6eksamt10usu1g96nx5i&e=1&st=j4nonv6u&dl=0)
 * [Lecture 2: (1/22) Camera Calibration](https://docs.google.com/presentation/d/1Y-LmmuN82IhxBLV57SEApz8cVVXOsi8G/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 3: (1/27) Calibration, Binocular Perspective](https://www.dropbox.com/scl/fi/ma7dpus29ue8s8ebi77jr/lecture2.pdf?rlkey=v85xcie6utvp31adglim2474c&e=1&dl=0)
+* [Lecture 4: (1/29) Multi-View Geometry](https://www.dropbox.com/scl/fi/ikw0is6keeb9th0iyoa0d/lecture4-multi-viewsfm.pdf?rlkey=qc8p4zzo1kdbm3167oyiqm7mo&e=1&dl=0)
+
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
 * [HW1](https://drive.google.com/file/d/1hvyTtXdbgOc75jpLZHAiW37uAZyL6Kln/view?usp=sharing): Due 02/10 at 11:59pm
