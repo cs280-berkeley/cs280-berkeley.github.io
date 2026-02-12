@@ -28,12 +28,13 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 **Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A. We will not be teaching basic image processing (convolution, gaussian smoothing, fourier transforms), basic deep learning (PyTorch, Jax, TensorFlow), stereo/homography.
 
 ## Lectures
-* [Lecture 1: (1/20) Course Intro. and Fundamentals of Image Formation](https://www.dropbox.com/scl/fi/b9dmslb1w4wxro5mjjg2h/first-lecture-intro.pptx?rlkey=omqej6eksamt10usu1g96nx5i&e=1&st=j4nonv6u&dl=0)
+* [Lecture 1: (1/20) Course Intro. and Fundamentals of Image Formation](https://docs.google.com/presentation/d/1TQ-jod_OQQ0qpm8dbywm6D0vOzDA_UDj/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 * [Lecture 2: (1/22) Camera Calibration](https://docs.google.com/presentation/d/1Y-LmmuN82IhxBLV57SEApz8cVVXOsi8G/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
-* [Lecture 3: (1/27) Calibration, Binocular Perspective](https://www.dropbox.com/scl/fi/ma7dpus29ue8s8ebi77jr/lecture2.pdf?rlkey=v85xcie6utvp31adglim2474c&e=1&dl=0)
-* [Lecture 4: (1/29) Multi-View Geometry](https://www.dropbox.com/scl/fi/ikw0is6keeb9th0iyoa0d/lecture4-multi-viewsfm.pdf?rlkey=qc8p4zzo1kdbm3167oyiqm7mo&e=1&dl=0)
-* [Lecture 5: (2/3) Biological Vision](https://www.dropbox.com/scl/fi/on5hrvdtpavax315vo9e6/slides-Biological-Visiion-2026.pptx?rlkey=0tuk6trjj33sgr4m2ihmx4p43&e=1&dl=0)
-* [Lecture 6: (2/5) Perceptual Grouping and Object Recognition](https://www.dropbox.com/scl/fi/on5hrvdtpavax315vo9e6/slides-Biological-Visiion-2026.pptx?rlkey=0tuk6trjj33sgr4m2ihmx4p43&e=1&dl=0)
+* [Lecture 3: (1/27) Calibration, Binocular Perspective](https://drive.google.com/file/d/1iq0Cpo8vlwZ2BDaEzGvkpgNkJIZ8hOqU/view?usp=sharing)
+* [Lecture 4: (1/29) Multi-View Geometry](https://drive.google.com/file/d/1yt0BzkW7C0VqO9qLeHZqE93htkLYgEpv/view?usp=sharing)
+* [Lecture 5: (2/3) Biological Vision](https://docs.google.com/presentation/d/1268IffHkzS1GB00RfNEmQqV9h4dYvVoy/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 6: (2/5) Perceptual Grouping and Object Recognition Part1](https://docs.google.com/presentation/d/17AG6acSakV7R1S54UxZyVUss8chqsQIj/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 7: (2/10) Perceptual Grouping and Object Recognition Part2](https://docs.google.com/presentation/d/17AG6acSakV7R1S54UxZyVUss8chqsQIj/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
