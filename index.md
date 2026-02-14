@@ -35,6 +35,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 5: (2/3) Biological Vision](https://docs.google.com/presentation/d/1268IffHkzS1GB00RfNEmQqV9h4dYvVoy/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 * [Lecture 6: (2/5) Perceptual Grouping and Object Recognition Part1](https://docs.google.com/presentation/d/17AG6acSakV7R1S54UxZyVUss8chqsQIj/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 * [Lecture 7: (2/10) Perceptual Grouping and Object Recognition Part2](https://docs.google.com/presentation/d/17AG6acSakV7R1S54UxZyVUss8chqsQIj/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 8: (2/12) Modern Detection,Segmentation and Keypoints](https://drive.google.com/file/d/1d7_UvbayqhEag3gfczv_rtEC36BeexsT/view?usp=sharing)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
