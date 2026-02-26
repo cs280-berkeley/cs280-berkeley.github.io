@@ -38,6 +38,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 8: (2/12) Modern Detection,Segmentation and Keypoints](https://drive.google.com/file/d/1d7_UvbayqhEag3gfczv_rtEC36BeexsT/view?usp=sharing)
 * [Lecture 9: (2/17) Attention](https://drive.google.com/file/d/1qapd0_j2PR8GpsWGjNgt6T7jo6CPJtbt/view?usp=drive_link)
 * [Lecture 10: (2/19) ViT, Rope, Transformers](https://drive.google.com/file/d/16BP7YVpnhE2vzslxKr4OYWHhNQ5vvCPO/view?usp=drive_link)
+* [Lecture 11: (2/24) Flow Matching](https://drive.google.com/file/d/1JOm5UlFdbPTdBLZ6obCuURDPzqKjkb1N/view?usp=drive_link)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
