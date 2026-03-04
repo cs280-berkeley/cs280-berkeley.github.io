@@ -39,11 +39,15 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 9: (2/17) Attention](https://drive.google.com/file/d/1qapd0_j2PR8GpsWGjNgt6T7jo6CPJtbt/view?usp=drive_link)
 * [Lecture 10: (2/19) ViT, Rope, Transformers](https://drive.google.com/file/d/16BP7YVpnhE2vzslxKr4OYWHhNQ5vvCPO/view?usp=drive_link)
 * [Lecture 11: (2/24) Flow Matching](https://drive.google.com/file/d/1JOm5UlFdbPTdBLZ6obCuURDPzqKjkb1N/view?usp=drive_link)
+* [Lecture 12: (2/26) Practicals of Flow Models](https://drive.google.com/file/d/1zy2mLg8cAO_Z5IWtqy9_4ZuOY4NcwfBr/view?usp=drive_link)
+* [Lecture 13: (3/3) Data](https://docs.google.com/presentation/d/1ATJ9D0OcQaehoat4NG_dosiLcBvxAp_J/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
+
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
 * [HW1](https://drive.google.com/file/d/1hvyTtXdbgOc75jpLZHAiW37uAZyL6Kln/view?usp=sharing): Due 02/10 at 11:59pm
 * [HW2](https://drive.google.com/file/d/11U-4sxvJq7BiAX1KtNSb4T932y9sOH37/view?usp=sharing): Due 02/24 at 11:59pm
+* [HW3](https://static.us.edusercontent.com/files/v0Dx2RVe2nx15jBDMdHZ264f): Due 03/17 at 11:59pm
 ## Additional Materials
 
 * [Spring 2025 Course Website](https://cs280-berkeley.github.io/sp25)
