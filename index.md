@@ -20,7 +20,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 **Office hours - Location**
 - Alyosha Efros: After Lecture
 - Angjoo Kanazawa: After Lecture
-- Jiaxin Ge: Thursday 6-7pm BWW First Floor
+- Jiaxin Ge: Thursday 12-1pm BWW First Floor
 - Jorge Diaz Chao: Monday 12-1pm BWW First Floor
 
 **Policy:** To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
