@@ -40,8 +40,10 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 10: (2/19) ViT, Rope, Transformers](https://drive.google.com/file/d/16BP7YVpnhE2vzslxKr4OYWHhNQ5vvCPO/view?usp=drive_link)
 * [Lecture 11: (2/24) Flow Matching](https://drive.google.com/file/d/1JOm5UlFdbPTdBLZ6obCuURDPzqKjkb1N/view?usp=drive_link)
 * [Lecture 12: (2/26) Practicals of Flow Models](https://drive.google.com/file/d/1zy2mLg8cAO_Z5IWtqy9_4ZuOY4NcwfBr/view?usp=drive_link)
-* [Lecture 13: (3/3) Data](https://docs.google.com/presentation/d/1ATJ9D0OcQaehoat4NG_dosiLcBvxAp_J/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
-
+* [Lecture 13: (3/3) Data (I)](https://docs.google.com/presentation/d/1ATJ9D0OcQaehoat4NG_dosiLcBvxAp_J/edit?usp=drive_link&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 14: (3/5) Data (II)](https://docs.google.com/presentation/d/1_s3ek2hWooCK83qz6PupUni9Ojho993K/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 15: (3/10) Representation Learning](https://docs.google.com/presentation/d/1Bo4N8NmzeCKRWmLdkoru0yxKI5sKvdks/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 16: (3/12) Self-Supervised Learning](https://drive.google.com/file/d/1hI2r9XOuddAmuvb_nZM_vpZNCqVQkQWE/view?usp=sharing)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
