@@ -45,6 +45,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 15: (3/10) Representation Learning](https://docs.google.com/presentation/d/1Bo4N8NmzeCKRWmLdkoru0yxKI5sKvdks/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 * [Lecture 16: (3/12) Self-Supervised Learning](https://drive.google.com/file/d/1hI2r9XOuddAmuvb_nZM_vpZNCqVQkQWE/view?usp=sharing)
 * [Lecture 17: (3/31) Learning Correspondences](https://drive.google.com/file/d/1Y4LR_fmHE5VxCG5fyXBXjbQtFs1DHH5r/view?usp=sharing)
+* [Lecture 18: (4/2) Learning-based Multi-view 3D](https://drive.google.com/file/d/1V8I44JVCeyQx4zT4P9cY007GO1IMi1o1/view?usp=sharing)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
