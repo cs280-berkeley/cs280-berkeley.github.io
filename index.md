@@ -53,7 +53,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [HW1](https://drive.google.com/file/d/1hvyTtXdbgOc75jpLZHAiW37uAZyL6Kln/view?usp=sharing): Due 02/10 at 11:59pm
 * [HW2](https://drive.google.com/file/d/11U-4sxvJq7BiAX1KtNSb4T932y9sOH37/view?usp=sharing): Due 02/24 at 11:59pm
 * [HW3](https://static.us.edusercontent.com/files/v0Dx2RVe2nx15jBDMdHZ264f): Due 03/17 at 11:59pm
-* Final Project\*
+* [Final Project\*](https://cmt3.research.microsoft.com/UCBCV2026/)
 ## Additional Materials
 
 * [Spring 2025 Course Website](https://cs280-berkeley.github.io/sp25)
