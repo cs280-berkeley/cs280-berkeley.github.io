@@ -47,6 +47,10 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 17: (3/17) Radiometry & Color](https://docs.google.com/presentation/d/1B8CKPua_fmQoosiqXOpDywc4cOx46VaS/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 * [Lecture 18: (3/31) Learning Correspondences](https://drive.google.com/file/d/1Y4LR_fmHE5VxCG5fyXBXjbQtFs1DHH5r/view?usp=sharing)
 * [Lecture 19: (4/2) Learning-based Multi-view 3D](https://drive.google.com/file/d/1V8I44JVCeyQx4zT4P9cY007GO1IMi1o1/view?usp=sharing)
+* [Lecture 20: (4/9) Single View 3D Prediction: Humans](https://drive.google.com/file/d/1LKkd5IgrWHJDAwUUPw7BbKRTfzX3ITPJ/view?usp=sharing)
+* [Lecture 21: (4/14) Single View 3D Prediction: Objects](https://drive.google.com/file/d/1i3lIEK-kJevbSFK2azq9ES6lqh877h1B/view?usp=sharing)
+* [Lecture 22: (4/16) HDR and Image-Based Lighting](https://docs.google.com/presentation/d/1byp8jLb6ArxWAoWMu78KVchgR8Cg5TTH/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 24: (4/23) World Models](https://docs.google.com/presentation/d/1MpQEH9POPnCK7nwWPikAt_tM_VM5HDHm/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 
 ## Assignments
 * [HW0](https://drive.google.com/file/d/1bbn1_U9b9dYEeHLUikcSyClLXFJDACx9/view?usp=drive_link): Due 01/27 at 11:59pm
