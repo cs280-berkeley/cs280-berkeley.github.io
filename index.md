@@ -50,6 +50,7 @@ GSIs: [Jiaxin Ge](https://gejiaxin.org), [Jorge Diaz Chao](https://jdiazchao.com
 * [Lecture 20: (4/9) Single View 3D Prediction: Humans](https://drive.google.com/file/d/1LKkd5IgrWHJDAwUUPw7BbKRTfzX3ITPJ/view?usp=sharing)
 * [Lecture 21: (4/14) Single View 3D Prediction: Objects](https://drive.google.com/file/d/1i3lIEK-kJevbSFK2azq9ES6lqh877h1B/view?usp=sharing)
 * [Lecture 22: (4/16) HDR and Image-Based Lighting](https://docs.google.com/presentation/d/1byp8jLb6ArxWAoWMu78KVchgR8Cg5TTH/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
+* [Lecture 23: (4/21) 4D Vision](https://drive.google.com/file/d/13j_7aBxaESavbp15XWWnzRlj2b4jc_El/view?usp=sharing)
 * [Lecture 24: (4/23) World Models](https://docs.google.com/presentation/d/1MpQEH9POPnCK7nwWPikAt_tM_VM5HDHm/edit?usp=sharing&ouid=112419339484327645529&rtpof=true&sd=true)
 
 ## Assignments
